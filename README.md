@@ -15,7 +15,10 @@ Description:<br>
 •	PC0 and PC1 are assigned to VLAN 10.<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
 •	All PCs are connected to different ports on the same switch.<br>
-<img width="2186" height="1164" alt="image" src="https://github.com/user-attachments/assets/17e8624b-067c-469c-b5f9-276bc920a657" />
+<img width="661" height="505" alt="image" src="https://github.com/user-attachments/assets/ff7ff253-7552-40bb-ae3d-3d99442c0e15" />
+
+<img width="655" height="525" alt="image" src="https://github.com/user-attachments/assets/8658cedf-c793-4b09-9dbe-555927add635" />
+
 
 ________________________________________
 # IP Addressing Table
